@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header */
+header{
+    height: 100px;
+    display: flex;
+    align-items: top;
+    justify-content: right;
+    position: fixed;
+    width: 100%;
+    z-index: 50;
+    background-color: black;
+}
+
+.speaker{
+    color: white;
+    margin: 20px;
+    display: flex;
+    align-items: top;
+    justify-content: right;
+    font-size: 13px;
+
+}
+
+.square-cont{
+    height: 20px;
+    padding: 3px;
+    margin-left: 10px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* main */
+.cam-conteiner{
+    
+    height:1800px;
+    /* DEBUG */
+    background-color: rgb(108, 93, 93);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer{
+   height: 100PX;
+    /* DEBUG */
+    background-color: black
+
+}
